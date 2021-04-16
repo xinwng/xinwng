@@ -1,15 +1,19 @@
 <!-- Intro  -->
 
-### Hello! I'm Xin Wang 😎
+### Hello! I'm Xin Wang. 😋
 
 <img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=150>
 
-#### I'm a 3rd year Computer Science with Business Applications major currently attending University of California, Riverside.
+#### I'm a 3rd year student studying Computer Science with Business Applications at the University of California, Riverside.
 
 #### BIO
 
-- ✨ aspiring software engineer with an interest in product management
-- 🌍 born in Fujian, China but moved to Los Angeles at the age of 5!
+- 🙋‍♂️ my name is pronounced like **shin**
+- ✨ i am an aspiring software engineer with an interest in product management
+- 🌍 i was born in Fujian, China and moved to Los Angeles at the age of 5
 - 🎶 i'm huge on discovering and listening to different types of music
-- 🌱 learn more about me on my [personal portfolio!](https://www.xinwang.me)
-- 📫 connect with me on [linkedin!](https://www.linkedin.com/in/xinwng/)
+- 🌱 learn more about me & my projects on my **[personal portfolio!]**(https://www.xinwang.me)
+- 🤞🏻 connect with me on **[linkedin!]**(https://www.linkedin.com/in/xinwng/)
+- 📧 contact me at **<xin@xinwang.me>**
+
+#### enjoy your day!
