@@ -1,6 +1,6 @@
 <!-- Intro  -->
 
-### Hi! I'm Xin.
+## Hi! I'm Xin.
 
 <img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=75>
 
@@ -30,4 +30,4 @@
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
 </p>
 
-##### ENJOY YOUR DAY!! 😤😤😤
+#### DON'T FORGET TO ENJOY YOUR DAY! 😤
