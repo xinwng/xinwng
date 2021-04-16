@@ -1,12 +1,12 @@
 <!-- Intro  -->
 
-### Hi! I'm Xin Wang
+### Hi! I'm Xin.
 
-<img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=75>
+<img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=750>
 
 #### I'm a 3rd year student studying Computer Science with Business Applications at the University of California, Riverside!
 
-##### BIO
+#### BIO
 
 - 🙋‍♂️ My name is pronounced like **shin** (psst... like the body part)
 - ✨ I am an aspiring Software Engineer with an interest in Product Management
@@ -17,7 +17,7 @@
 - 🤞🏻 Connect and chat with me anytime on **[LinkedIn!](https://www.linkedin.com/in/xinwng/)**
 - 📧 Contact me at **<xin@xinwang.me>**
 
-##### ARSENAL
+#### ARSENAL
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
