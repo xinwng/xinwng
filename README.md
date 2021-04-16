@@ -2,7 +2,7 @@
 
 ## Hello! I'm Xin.
 
-<img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=75>
+<img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=50>
 
 #### I'm a 3rd year student studying Computer Science with Business Applications at the University of California, Riverside!
 
