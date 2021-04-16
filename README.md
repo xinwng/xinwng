@@ -8,12 +8,12 @@
 
 #### BIO
 
-- 🙋‍♂️ My name is pronounced like **shin**
+- 🙋‍♂️ My name is pronounced like **shin** (psst... like the body part)
 - ✨ I am an aspiring Software Engineer with an interest in Product Management
 - 🌍 I was born in Fujian, China but moved to Los Angeles when I was 5 years old
 - 🎶 I'm huge on discovering and listening to different types of music
-- 🌱 Learn more about me and my projects on my **[portfolio](https://www.xinwang.me)**!
-- 🤞🏻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/xinwng/)**!
+- 🌱 Learn more about me and my projects on my **[portfolio!](https://www.xinwang.me)**
+- 🤞🏻 Connect and chat with me anytime on **[LinkedIn!](https://www.linkedin.com/in/xinwng/)**
 - 📧 Contact me at **<xin@xinwang.me>**
 
 #### ENJOY YOUR DAY!! 😤😤😤
