@@ -1,6 +1,6 @@
 <!-- Intro  -->
 
-## Hi! I'm Xin.
+## Hello! I'm Xin.
 
 <img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=75>
 
