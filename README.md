@@ -1,12 +1,12 @@
 <!-- Intro  -->
 
-# Hi! I'm Xin Wang
+### Hello! I'm Xin Wang 😎
 
-<img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=250>
+<img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=150>
 
-### i'm a 3rd year Computer Science with Business Applications student attending University of California, Riverside
+#### I'm a 3rd year Computer Science with Business Applications major currently attending University of California, Riverside.
 
-### xin.Information
+#### BIO
 
 - ✨ aspiring software engineer with an interest in product management
 - 🌍 born in Fujian, China but moved to Los Angeles at the age of 5!
