@@ -4,7 +4,7 @@
 
 <img align="right" href="https://github.com/xinwng" src="./assets/wave.gif" height=70>
 
-#### I'm a 3rd year student studying Computer Science with Business Applications at the University of California, Riverside!
+#### I'm a 4<sup>th</sup> year student studying Computer Science with Business Applications at the University of California, Riverside!
 
 #### BIO
 
